@@ -1,4 +1,4 @@
-require_relative "../object_transport_optimization.rb"
+require_relative "../controller/object_transport_optimization.rb"
 
 RSpec.describe ObjectTransportOptimization do
   tested_object = ObjectTransportOptimization

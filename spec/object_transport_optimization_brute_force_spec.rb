@@ -1,4 +1,4 @@
-require_relative "../object_transport_optimization_brute_force.rb"
+require_relative "../controller/object_transport_optimization_brute_force.rb"
 
 RSpec.describe ObjectTransportOptimizationBruteForce do
   tested_object = ObjectTransportOptimizationBruteForce
